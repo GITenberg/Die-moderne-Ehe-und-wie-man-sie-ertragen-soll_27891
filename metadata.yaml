@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '32997'
     url: http://www.gutenberg.org/2009/agents/32997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27891#Die-moderne-Ehe-und-wie-man-sie-ertragen-soll
 gutenberg_bookshelf:
 - DE Sachbuch
 - Sociology
