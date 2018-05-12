@@ -1,0 +1,33 @@
+_repo: Die-moderne-Ehe-und-wie-man-sie-ertragen-soll_27891
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sokolowsky-Theumann, Clara
+    gutenberg_agent_id: '32998'
+    url: http://www.gutenberg.org/2009/agents/32998
+covers:
+- cover_type: archival
+  image_path: 27891-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Braby, Maud Churton
+    alias: Churton Braby, Maud
+    gutenberg_agent_id: '32997'
+    url: http://www.gutenberg.org/2009/agents/32997
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Sociology
+gutenberg_issued: '2009-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27891'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+title: Die moderne Ehe und wie man sie ertragen soll
+url: http://www.gutenberg.org/ebooks/27891
